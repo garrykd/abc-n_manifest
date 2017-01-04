@@ -14,7 +14,7 @@
            fetch="https://github.com/garrykd/" />
   <remote name="substratum"
            fetch="https://github.com/TeamSubstratum/" />
-  <default revision="refs/tags/android-7.1.1_r6"
+  <default revision="refs/tags/android-7.1.1_r9"
            remote="aosp"
            sync-c="true"
            sync-j="4" />
@@ -63,7 +63,7 @@
   <!-- Angler trees -->
   <project path="device/huawei/angler" name="abc-n_device_huawei_angler" groups="device,angler,broadcom_pdk" remote="abc" revision="n2" />
   <project path="kernel/huawei/angler" name="abc-n_kernel_huawei_angler" groups="device,angler,broadcom_pdk" remote="abc" revision="n2" />
-  <project path="vendor/huawei" name="abc-n_vendor_huawei" remote="abc" revision="n2" />
+  <project path="vendor/huawei" name="abc-n_vendor_huawei" remote="abc" revision="android-7.1" />
 
   <!-- AOSP trees -->
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" />
