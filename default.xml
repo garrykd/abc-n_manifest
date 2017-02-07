@@ -60,7 +60,7 @@
   <!-- Angler trees -->
   <project path="device/huawei/angler" name="abc-n_device_huawei_angler" groups="device,angler,broadcom_pdk" remote="abc" revision="n2" />
   <project path="kernel/huawei/angler" name="abc-n_kernel_huawei_angler" groups="device,angler,broadcom_pdk" remote="abc" revision="n2" />
-  <project path="vendor/huawei" name="abc-n_vendor_huawei" remote="abc" revision="android-7.1" />
+  <project path="vendor/huawei" name="abc-n_vendor_huawei" remote="abc" revision="n2" />
 
   <!-- AOSP trees -->
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" />
