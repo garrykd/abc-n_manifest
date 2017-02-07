@@ -19,10 +19,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <!-- Scripts -->
-  <project path="scripts" name="scripts" remote="abc" revision="n2" />
-  <project path="scripts/vendor-blobs-extractfromfactory" name="vendor-blobs-extractfromfactory" remote="abc" revision="n" />
-  <!-- PNmod Repo's -->
+  <!-- ABCrom Repo's -->
   <project path="build" name="abc-n_build" groups="pdk" remote="CSE" revision="n2" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
