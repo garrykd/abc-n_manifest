@@ -57,7 +57,7 @@
   <project path="vendor/nexus" name="abc-n_vendor_nexus" remote="CSE" revision="n2" />
 
     <!-- Substratum -->
-  <project path="packages/apps/masquerade" name="masquerade" remote="substratum" revision="n" />
+  <project path="packages/apps/ThemeInterfacer" name="interfacer" remote="substratum" revision="n-rootless" />
 
   <!-- Angler trees -->
   <project path="device/huawei/angler" name="abc-n_device_huawei_angler" groups="device,angler,broadcom_pdk" remote="abc" revision="n2" />
