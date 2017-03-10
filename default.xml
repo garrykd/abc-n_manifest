@@ -29,7 +29,6 @@
   <project path="frameworks/av" name="abc-n_frameworks_av" groups="pdk" remote="abc" revision="n2" />
   <project path="frameworks/base" name="abc-n_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="CSE" revision="n2" />
   <project path="frameworks/native" name="abc-n_frameworks_native" groups="pdk" remote="abc" revision="n2" />
-  <project path="frameworks/opt/cards" name="abc-n_frameworks_opt_cards" remote="abc" revision="n2" />
   <project path="frameworks/opt/telephony" name="abc-n_frameworks_opt_telephony" groups="pdk" remote="abc" revision="n2" />
   <project path="frameworks/rs" name="abc-n_frameworks_rs" groups="pdk" remote="abc" revision="n2" />
   <project path="frameworks/support" name="abc-n_frameworks_support" groups="pdk-cw-fs,pdk-fs" remote="abc" revision="n2" />
