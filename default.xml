@@ -14,7 +14,7 @@
            fetch="https://github.com/garrykd/" />
   <remote name="substratum"
            fetch="https://github.com/substratum/" />
-  <default revision="refs/tags/android-7.1.2_r24"
+  <default revision="refs/tags/android-7.1.2_r29"
            remote="aosp"
            sync-c="true"
            sync-j="4" />
